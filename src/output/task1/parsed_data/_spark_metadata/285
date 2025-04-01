@@ -1,0 +1,3 @@
+v1
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-SriLaxmiPrasannaJoginipelli/src/output/task1/parsed_data/part-00000-8e656d88-d853-479d-9e94-39df5d4cd584-c000.csv","size":72,"isDir":false,"modificationTime":1743550415013,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///workspaces/ride-sharing-analytics-spark-streaming-SriLaxmiPrasannaJoginipelli/src/output/task1/parsed_data/part-00001-15a93273-c88d-46d2-adaa-e29a349ef771-c000.csv","size":72,"isDir":false,"modificationTime":1743550415037,"blockReplication":1,"blockSize":33554432,"action":"add"}
