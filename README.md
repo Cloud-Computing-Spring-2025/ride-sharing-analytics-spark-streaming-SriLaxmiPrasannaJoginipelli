@@ -16,7 +16,10 @@ python data_generator.py
 ```
 
 ## Task 1: Real-Time Data Ingestion
-**Script:** `python task1.py`
+```sh
+python task1.py
+```
+
 
 **Objective:**
 - Simulates ride-sharing data using a socket stream.
@@ -24,7 +27,9 @@ python data_generator.py
 - Saves parsed data as CSV files for further processing.
 
 ## Task 2: Driver-Level Aggregations
-**Script:** `python task2.py`
+```sh
+python task2.py
+```
 
 **Objective:**
 - Reads streaming ride data from Task 1.
@@ -32,7 +37,9 @@ python data_generator.py
 - Saves aggregated results in batches to CSV files.
 
 ## Task 3: Windowed Fare Aggregation
-**Script:** `python task3.py`
+```sh
+python task3.py
+```
 
 **Objective:**
 - Reads streaming data.
