@@ -10,8 +10,8 @@ pip install faker
 pip install pyspark
 ```
 Additionally, the data_generator.py script is responsible for generating live ride event data, which is used in the streaming pipeline.
-`python data_generator.py
-`
+
+**Script:** `python data_generator.py`
 
 ## Task 1: Real-Time Data Ingestion
 **Script:** `python task1.py`
